@@ -3,7 +3,7 @@ import ReactTable from 'react-table'
 import ReactToExcel from 'react-html-table-to-excel';
 import 'react-table/react-table.css'
 import fire from './config'
-import SubmitForm from './AppOLD.js'
+import SubmitForm from './Table.js'
 import './grid.css'
 import XLSX from 'xlsx'
 
